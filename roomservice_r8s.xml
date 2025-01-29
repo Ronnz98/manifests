@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- DEVICES -->
+  <project name="sneedxynos/android_device_samsung_r8s-lineage-21" path="device/samsung/r8s" remote="github" revision="lineage-21" />
+  <project name="borbelyvince/android_device_samsung_universal9830-common-lineage-21-qpr3.zip" path="device/samsung/universal9830-common" remote="github" revision="lineage-21-qpr3" />
+  <project name="Ronnz98/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-21-r8s" />
+
+  <!-- KERNEL -->
+  <project name="borbelyvince/android_kernel_samsung_universal9830" path="kernel/samsung/universal9830" remote="github" revision="lineage-21-qpr2" />
+
+  <!-- VENDOR -->
+  <project name="Ronnz98/proprietary_vendor_samsung_r8s" path="vendor/samsung/r8s" remote="github" revision="lineage-21-qpr3" />
+  <project name="Ronnz98/proprietary_vendor_samsung_universal9830-common" path="vendor/samsung/universal9830-common" remote="github" revision="lineage-21-qpr3-r8s" />
+
+ <!-- Samsung Hardware Repo -->
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-21"/>
+
+  <!-- HARDWARE -->
+  <project name="LineageOS/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_hardware_samsung_slsi_graphics" path="hardware/samsung_slsi/graphics" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_hardware_samsung_slsi_interfaces" path="hardware/samsung_slsi/interfaces" remote="github" revision="lineage-21" />
+  <project name="LineageOS/android_hardware_samsung_slsi_config" path="hardware/samsung_slsi/config" remote="github" revision="lineage-21" />
+
+</manifest>

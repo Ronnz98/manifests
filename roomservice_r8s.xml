@@ -3,7 +3,7 @@
 
   <!-- DEVICES -->
   <project name="sneedxynos/android_device_samsung_r8s-lineage-21" path="device/samsung/r8s" remote="github" revision="lineage-21" />
-  <project name="borbelyvince/android_device_samsung_universal9830-common-lineage-21-qpr3.zip" path="device/samsung/universal9830-common" remote="github" revision="lineage-21-qpr3" />
+  <project name="borbelyvince/android_device_samsung_universal9830-common-lineage-21-qpr3" path="device/samsung/universal9830-common" remote="github" revision="lineage-21-qpr3" />
   <project name="Ronnz98/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-21-r8s" />
 
   <!-- KERNEL -->
